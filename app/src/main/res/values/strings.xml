@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lec2Demo</string>
+    <string name="txtTitle">Buschetta</string>
+    <string name="imgBruschetta">Bruschetta</string>
+    <string name="txtShowRecipe">Show Recipe</string>
+    <string name="txtRecipeTitle">Bruschetta Recipe</string>
+    <string name="txtIng">Ingredients</string>
+    <string name="txtIng1">4 plum tomatoes</string>
+    <string name="txtIng2">6 basil leaves</string>
+    <string name="txtDir">Directions</string>
+    <string name="txtDirContent">Combine the ingredients and add salt to taste. Top French bread slices with mixture.</string>
+</resources>
